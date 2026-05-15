@@ -48,7 +48,7 @@
 <div class="app">
   <div class="player" id="player">
     <iframe id="playerFrame"
-      src="URL"
+      src="https://pone_tu_url"
       allow="encrypted-media; fullscreen"
       allowfullscreen
       title="Reproductor de streaming">
