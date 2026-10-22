@@ -49,7 +49,7 @@
   <div class="player" id="player">
     <iframe id="playerFrame"
       src="https://pone_tu_url"
-      allow="encrypted-media; fullscreen"
+      allow="autoplay; encrypted-media; fullscreen; picture-in-picture"
       allowfullscreen
       title="Reproductor de streaming">
     </iframe>
